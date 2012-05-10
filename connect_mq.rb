@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 # -*- encoding: utf-8 -*-
-# connect to  use stomp protcol
+# connect to  mq use stomp protcol
 # snip code from internet 
 # for fun 
 require 'rubygems'
